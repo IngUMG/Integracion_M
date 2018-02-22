@@ -1,0 +1,7 @@
+c:\users\scarl\documents\visual studio 2015\Projects\dllbarra\dllbarra\bin\Debug\dllbarra.dll
+c:\users\scarl\documents\visual studio 2015\Projects\dllbarra\dllbarra\bin\Debug\dllbarra.pdb
+c:\users\scarl\documents\visual studio 2015\Projects\dllbarra\dllbarra\obj\Debug\dllbarra.csprojResolveAssemblyReference.cache
+c:\users\scarl\documents\visual studio 2015\Projects\dllbarra\dllbarra\obj\Debug\dllbarra.var.resources
+c:\users\scarl\documents\visual studio 2015\Projects\dllbarra\dllbarra\obj\Debug\dllbarra.csproj.GenerateResource.Cache
+c:\users\scarl\documents\visual studio 2015\Projects\dllbarra\dllbarra\obj\Debug\dllbarra.dll
+c:\users\scarl\documents\visual studio 2015\Projects\dllbarra\dllbarra\obj\Debug\dllbarra.pdb

@@ -1,0 +1,593 @@
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones.resources
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PerfilUsuario.resources
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Prototipo\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PerfilUsuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Prototipo\PrototipoSeguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PerfilUsuario.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Pierce\Documents\2017\8vo Semestre\Análisis de Sistemas II\Proyectos\Proyecto General\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Henrry Marroquin\Documents\GitHub\Repositorio_Seguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Henrry Marroquin\Documents\GitHub\Repositorio_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Henrry Marroquin\Documents\GitHub\Repositorio_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PerfilUsuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\GitHub\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PerfilUsuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+<<<<<<< HEAD
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PerfilUsuario.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\Carlos Reyes\Desktop\Seguridad\Seguridad2\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+=======
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PerfilUsuario.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.CoreCompileInputs.cache
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+>>>>>>> 66b6424072a01b3b8078e5182febb0a474c55c8c
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\werne\Documents\Github\Seguridad\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\MantenimientoDerechosApp.Frm_MantenimientoApp.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+C:\Users\Alejandra\Desktop\Análisis II\Seguridad\Repo_Seguridad2\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacor.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\dll_bitacora.bitac.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.dll
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.pdb
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.BitacoraForm.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsigUsuarioPerfil.resources
+C:\Users\kimbe\Desktop\asis_git\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.Perfiles_Usuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.pdb
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsigUsuarioPerfil.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\dll_bitacora.bitac.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.BitacoraForm.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.Perfiles_Usuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.pdb
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsigUsuarioPerfil.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\dll_bitacora.bitac.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.BitacoraForm.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.Perfiles_Usuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\kimbe\Desktop\IS-Seguridad Final\Repositorio_Seguridad-master\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe.config
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.exe
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\PrototipoSeguridad.pdb
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\stdole.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\dll_bitacora.pdb
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.xml
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Aplicaciones2.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.AsignacionaPerfiles.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\dll_bitacora.bitac.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Bitacora.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.BitacoraForm.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.CambioContraseña.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporte.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.GenerarReporteUsuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Login.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Frm_MantenimientoApp.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Perfiles.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.PerfilesUsuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Perfiles_usuario.Perfiles_Usuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Principal.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Properties.Resources.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteBitacora.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idapp.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idcons.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idelimina.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idimp.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_iding.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idmod.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDAD_idusuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_ididusuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idperfil.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.ReporteDUP_idusuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaccion.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidaplicacion.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidbitacora.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteiderror.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidfecha.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidip.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidrangos.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidresultado.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteidusuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idapellido.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idcorreo.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnombre.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idnusuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idtel.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporteusuario_idusuario.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Reporte_Idbitacora.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Usuarios.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.GenerateResource.Cache
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.exe
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.pdb
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\MySql.Data.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\Navegador.dll
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\Navegador.pdb
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\Navegador.Navegador.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.PruebaIntegracion.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\obj\Debug\PrototipoSeguridad.Integracion.resources
+C:\Users\Josh\Documents\Ingenieria De Software\Seguridad\Repositorio_Seguridad-master\PrototipoSeguridad\bin\Debug\FlashControlV71.dll

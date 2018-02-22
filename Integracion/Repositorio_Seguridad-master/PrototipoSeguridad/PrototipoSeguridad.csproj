@@ -1,0 +1,880 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68D2634B-6E39-4B8E-B7FD-997AC7113C6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PrototipoSeguridad</RootNamespace>
+    <AssemblyName>PrototipoSeguridad</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="dll_bitacora">
+      <HintPath>..\..\..\..\..\BITACORA FINAL\dll_bitacora\dll_bitacora\bin\Debug\dll_bitacora.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Navegador">
+      <HintPath>..\..\..\NavegadorIntegracion\Navegador\bin\Debug\Navegador.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aplicaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicaciones.Designer.cs">
+      <DependentUpon>Aplicaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignacionaPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignacionaPerfiles.designer.cs">
+      <DependentUpon>AsignacionaPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bitac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bitac.designer.cs">
+      <DependentUpon>bitac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bitacor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bitacor.Designer.cs">
+      <DependentUpon>Bitacor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BitacoraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BitacoraForm.Designer.cs">
+      <DependentUpon>BitacoraForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bitacora_dll.cs" />
+    <Compile Include="CambioContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambioContraseña.Designer.cs">
+      <DependentUpon>CambioContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="CrystalReportBitacora.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportBitacora.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GenerarReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerarReporte.designer.cs">
+      <DependentUpon>GenerarReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenerarReporteUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerarReporteUsuario.designer.cs">
+      <DependentUpon>GenerarReporteUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Integracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Integracion.Designer.cs">
+      <DependentUpon>Integracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoApp.Designer.cs">
+      <DependentUpon>MantenimientoApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navegador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Navegador.designer.cs">
+      <DependentUpon>Navegador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfiles.designer.cs">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerfilesUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerfilesUsuario.designer.cs">
+      <DependentUpon>PerfilesUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfiles_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfiles_Usuario.designer.cs">
+      <DependentUpon>Perfiles_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reporteaccion.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporteaccion.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporteaplicacion.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporteaplicacion.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReporteBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteBitacora.Designer.cs">
+      <DependentUpon>ReporteBitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteDAD_idapp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDAD_idcons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDAD_idelimina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDAD_idimp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDAD_iding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDAD_idmod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDAD_idusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDUP_ididusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDUP_idperfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDUP_idusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteerror.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporteerror.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportefecha.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reportefecha.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporteidaccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidaccion.designer.cs">
+      <DependentUpon>Reporteidaccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteidaplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidaplicacion.designer.cs">
+      <DependentUpon>Reporteidaplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteidbitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidbitacora.designer.cs">
+      <DependentUpon>Reporteidbitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteiderror.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteiderror.designer.cs">
+      <DependentUpon>Reporteiderror.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteidfecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidfecha.designer.cs">
+      <DependentUpon>Reporteidfecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteidip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidip.designer.cs">
+      <DependentUpon>Reporteidip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteidrangos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidrangos.designer.cs">
+      <DependentUpon>Reporteidrangos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteidresultado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidresultado.designer.cs">
+      <DependentUpon>Reporteidresultado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteidusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteidusuario.designer.cs">
+      <DependentUpon>Reporteidusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteip.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporteip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporterangos.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporterangos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporteresultado.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporteresultado.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reporteusuario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteusuario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporteusuario_idapellido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteusuario_idapellido.designer.cs">
+      <DependentUpon>Reporteusuario_idapellido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteusuario_idcorreo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteusuario_idcorreo.designer.cs">
+      <DependentUpon>Reporteusuario_idcorreo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteusuario_idnombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteusuario_idnombre.designer.cs">
+      <DependentUpon>Reporteusuario_idnombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteusuario_idnusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteusuario_idnusuario.designer.cs">
+      <DependentUpon>Reporteusuario_idnusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteusuario_idtel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteusuario_idtel.designer.cs">
+      <DependentUpon>Reporteusuario_idtel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteusuario_idusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteusuario_idusuario.designer.cs">
+      <DependentUpon>Reporteusuario_idusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_Idbitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_Idbitacora.designer.cs">
+      <DependentUpon>Reporte_Idbitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptAplicaciones_rep.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAplicaciones_rep.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptAplicacion_des.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAplicacion_des.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptAplicacion_hab.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAplicacion_hab.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptaplicacion_idapp.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptaplicacion_idapp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptAplicacion_naplicacion.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAplicacion_naplicacion.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_cons.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_cons.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_Consultas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_Consultas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_elimina.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_elimina.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_idapp.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_idapp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_idusuario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_idusuario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_imp.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_imp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_ing.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_ing.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDAD_mod.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDAD_mod.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDUP_idusuario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDUP_idusuario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDUP_perfil.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDUP_perfil.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDUP_usuario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDUP_usuario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptidbitacora.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptidbitacora.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPersonal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPersonal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptusuario_apellido.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptusuario_apellido.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptusuario_correo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptusuario_correo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptusuario_idusuario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptusuario_idusuario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptusuario_nombre.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptusuario_nombre.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptusuario_nusuario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptusuario_nusuario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptusuario_tel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptusuario_tel.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aplicaciones.resx">
+      <DependentUpon>Aplicaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignacionaPerfiles.resx">
+      <DependentUpon>AsignacionaPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bitac.resx">
+      <DependentUpon>bitac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bitacor.resx">
+      <DependentUpon>Bitacor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BitacoraForm.resx">
+      <DependentUpon>BitacoraForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambioContraseña.resx">
+      <DependentUpon>CambioContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportBitacora.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportBitacora.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerarReporte.resx">
+      <DependentUpon>GenerarReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerarReporteUsuario.resx">
+      <DependentUpon>GenerarReporteUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Integracion.resx">
+      <DependentUpon>Integracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoApp.resx">
+      <DependentUpon>MantenimientoApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navegador.resx">
+      <DependentUpon>Navegador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfiles.resx">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerfilesUsuario.resx">
+      <DependentUpon>PerfilesUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfiles_Usuario.resx">
+      <DependentUpon>Perfiles_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reporteaccion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporteaccion.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteaplicacion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporteaplicacion.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteBitacora.resx">
+      <DependentUpon>ReporteBitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDAD_idapp.resx">
+      <DependentUpon>ReporteDAD_idapp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDAD_idcons.resx">
+      <DependentUpon>ReporteDAD_idcons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDAD_idelimina.resx">
+      <DependentUpon>ReporteDAD_idelimina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDAD_idimp.resx">
+      <DependentUpon>ReporteDAD_idimp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDAD_iding.resx">
+      <DependentUpon>ReporteDAD_iding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDAD_idmod.resx">
+      <DependentUpon>ReporteDAD_idmod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDAD_idusuario.resx">
+      <DependentUpon>ReporteDAD_idusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDUP_ididusuario.resx">
+      <DependentUpon>ReporteDUP_ididusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDUP_idperfil.resx">
+      <DependentUpon>ReporteDUP_idperfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDUP_idusuario.resx">
+      <DependentUpon>ReporteDUP_idusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteerror.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporteerror.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportefecha.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reportefecha.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidaccion.resx">
+      <DependentUpon>Reporteidaccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidaplicacion.resx">
+      <DependentUpon>Reporteidaplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidbitacora.resx">
+      <DependentUpon>Reporteidbitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteiderror.resx">
+      <DependentUpon>Reporteiderror.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidfecha.resx">
+      <DependentUpon>Reporteidfecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidip.resx">
+      <DependentUpon>Reporteidip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidrangos.resx">
+      <DependentUpon>Reporteidrangos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidresultado.resx">
+      <DependentUpon>Reporteidresultado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteidusuario.resx">
+      <DependentUpon>Reporteidusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteip.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporteip.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporterangos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporterangos.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteresultado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporteresultado.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteusuario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteusuario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteusuario_idapellido.resx">
+      <DependentUpon>Reporteusuario_idapellido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteusuario_idcorreo.resx">
+      <DependentUpon>Reporteusuario_idcorreo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteusuario_idnombre.resx">
+      <DependentUpon>Reporteusuario_idnombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteusuario_idnusuario.resx">
+      <DependentUpon>Reporteusuario_idnusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteusuario_idtel.resx">
+      <DependentUpon>Reporteusuario_idtel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteusuario_idusuario.resx">
+      <DependentUpon>Reporteusuario_idusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_Idbitacora.resx">
+      <DependentUpon>Reporte_Idbitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAplicaciones_rep.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAplicaciones_rep.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAplicacion_des.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAplicacion_des.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAplicacion_hab.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAplicacion_hab.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptaplicacion_idapp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptaplicacion_idapp.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAplicacion_naplicacion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAplicacion_naplicacion.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_cons.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_cons.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_Consultas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_Consultas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_elimina.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_elimina.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_idapp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_idapp.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_idusuario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_idusuario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_imp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_imp.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_ing.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_ing.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDAD_mod.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDAD_mod.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDUP_idusuario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDUP_idusuario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDUP_perfil.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDUP_perfil.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDUP_usuario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDUP_usuario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptidbitacora.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptidbitacora.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPersonal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPersonal.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptusuario_apellido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptusuario_apellido.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptusuario_correo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptusuario_correo.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptusuario_idusuario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptusuario_idusuario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptusuario_nombre.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptusuario_nombre.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptusuario_nusuario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptusuario_nusuario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptusuario_tel.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptusuario_tel.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Insertar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grabar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimir2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Insertar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Insertar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22236267_1723360744365318_2094413666_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22264602_1723360754365317_1757528147_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22264596_1723360747698651_173196365_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22264625_1723360751031984_1344209642_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22264602_1723360754365317_1757528147_n1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22236267_1723360744365318_2094413666_n1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22264625_1723360751031984_1344209642_n1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22264596_1723360747698651_173196365_n1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
